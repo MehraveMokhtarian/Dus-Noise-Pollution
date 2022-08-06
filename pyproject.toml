@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "d-s-noise-pollution---techlabs"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.4.3"
+geopandas = "^0.11.1"
+shapely = "^1.8.2"
+matplotlib = "^3.5.2"
+numpy = "^1.23.1"
+plotly = "^5.9.0"
+folium = "^0.12.1"
+contextily = "^1.2.0"
+pathlib = "^1.0.1"
+pyproj = "^3.3.1"
+jupyterlab = "^3.4.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
