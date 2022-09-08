@@ -50,7 +50,7 @@ the last decision to make on visualization step was regarding the scale of the m
 ### TODO: 
 - Explain each notebook, which does what
 - Explain what the Folder Stadteile is for and what files are in there
-- Make use of the [markdown syntax](https://www.markdownguide.org/basic-syntax/)
+
 
 
 ## How to run the notebooks on your own
