@@ -52,7 +52,7 @@ the last decision to make on visualization step was regarding the scale of the m
 1. loading and cleaning data.ipynb >>> it is what it is
 2. geometry extraction using geopy & merging csv.ipynb >>> in order to extract Lat and Lng as it is explained above
 3. eda.ipynb >>> explorative analysis of the data
-GeoPandas_Static.ipynb >>> working with spatial data
+4. GeoPandas_Static.ipynb >>> working with spatial data
 
 and other notebooks are just different ways of visualizing that we tried.
 
